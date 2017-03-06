@@ -3,40 +3,42 @@ This checklist will help each and every small/medium enterprise to test/maintain
 # Information Security Policies
 - Does company have information security policies?
 - If no then you can get the resources and samples from this link to start implement with: https://www.sans.org/security-resources/policies
-Check whether policies have been approved and signed by management?
-How policies were deployed to the end users of the organisation?
-Check if policies are being followed by end users?
-Check how frequently organisation updates their infosec policies?
-Information Security Roles and Duties Segregation
-Are responsibilities are documented for each infosec pertaining duties?
-Responsibilities and duties are two separate things for information security. Are those both well documented and communicated over the organisation?
-Make sure organisation has a well defined document which clears the information about whom to contact and when to contact in the case of any breach or risk.
-Does this security practices are applicable to all teams/departments within the organisation or just pertaining to only technical department where the involvement of risk is more?
-Human Resource Security Management
-Check the process of background screening?
-Is background screening done by 3rd party?
-If yes then any non-disclosure agreement is made with the 3rd party vendor?
-Pre-onboarding, what all documents are gathered by HR? How the integrity is checked for all those documents if needed?
-During the employment, is management's behaviour encourage employee to stick with infosec guidelines?
-How employee termination is being done?
-Do all physical and technical accesses are taken back from the employee?
-Who make sure of this and how?
-Asset & Information Management Security
-Is there asset management inventory?
-It is being kept updated?
-Who has taken the ownership of asset management?
-Does organisation have any 'acceptable use policy'?
-Check if users are following 'acceptable use policy'
-Check who takes ownership of asset returning.
-Is there any policy to transfer, store, retrieve & dispose classified information?
-Check whether these 4 things are being done appropriately.
-Do dumpster diving
-Check what all physical access do users have with their laptops/desktops such as use of removable media, CD/DVD writer etc.
-Check Bios access is password protected or not? If not try to boot KALI linux
-Check if systems do have drive encryption or not?
-Are there any polices or clause which states the amount to be taken in the consideration of unauthorised access, modification, disposable or retrieval of classified information as well as physical assets?
-Is there any documented access control policy?
-Are roles and responsibilities defined for access control policy?
-Are they properly followed?
-Is inventory/logs are maintained for access control? Are those retrievable?
-Reference: http://www.hydro-x.co.uk/wp-content/uploads/2015/10/shutterstock_178919066.jpg (Image Taken)
+- Check whether policies have been approved and signed by management?
+- How policies were deployed to the end users of the organisation?
+- Check if policies are being followed by end users?
+- Check how frequently organisation updates their infosec policies?
+
+# Information Security Roles and Duties Segregation
+- Are responsibilities are documented for each infosec pertaining duties?
+- Responsibilities and duties are two separate things for information security. Are those both well documented and communicated over the organisation?
+- Make sure organisation has a well defined document which clears the information about whom to contact and when to contact in the case of any breach or risk.
+- Does this security practices are applicable to all teams/departments within the organisation or just pertaining to only technical department where the involvement of risk is more?
+
+# Human Resource Security Management
+- Check the process of background screening?
+- Is background screening done by 3rd party?
+- If yes then any non-disclosure agreement is made with the 3rd party vendor?
+- Pre-onboarding, what all documents are gathered by HR? How the integrity is checked for all those documents if needed?
+- During the employment, is management's behaviour encourage employee to stick with infosec guidelines?
+- How employee termination is being done?
+- Do all physical and technical accesses are taken back from the employee?
+- Who make sure of this and how?
+
+# Asset & Information Management Security
+- Is there asset management inventory?
+- It is being kept updated?
+- Who has taken the ownership of asset management?
+- Does organisation have any 'acceptable use policy'?
+- Check if users are following 'acceptable use policy'
+- Check who takes ownership of asset returning.
+- Is there any policy to transfer, store, retrieve & dispose classified information?
+- Check whether these 4 things are being done appropriately.
+- Do dumpster diving
+- Check what all physical access do users have with their laptops/desktops such as use of removable media, CD/DVD writer etc.
+- Check Bios access is password protected or not? If not try to boot KALI linux
+- Check if systems do have drive encryption or not?
+- Are there any polices or clause which states the amount to be taken in the consideration of unauthorised access, modification, disposable or retrieval of classified information as well as physical assets?
+- Is there any documented access control policy?
+- Are roles and responsibilities defined for access control policy?
+- Are they properly followed?
+- Is inventory/logs are maintained for access control? Are those retrievable?

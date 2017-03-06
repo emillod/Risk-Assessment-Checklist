@@ -35,10 +35,24 @@ This checklist will help each and every small/medium enterprise to test/maintain
 - Check whether these 4 things are being done appropriately.
 - Do dumpster diving
 - Check what all physical access do users have with their laptops/desktops such as use of removable media, CD/DVD writer etc.
-- Check Bios access is password protected or not? If not try to boot KALI linux
-- Check if systems do have drive encryption or not?
 - Are there any polices or clause which states the amount to be taken in the consideration of unauthorised access, modification, disposable or retrieval of classified information as well as physical assets?
 - Is there any documented access control policy?
 - Are roles and responsibilities defined for access control policy?
 - Are they properly followed?
 - Is inventory/logs are maintained for access control? Are those retrievable?
+- Is there any documented process for user access provisioning?
+- Check if privileged access accounts are maintained saperately.
+- Check if user access are properly removed upon the termination or post resignation.
+
+# Application & System Access Security
+- Is application and system access controls are documented?
+- Is there any 2FA to logon in a system or application?
+- Does company use any password manager?
+- Is there any password complex password policy generation?
+- Does system have drive encryption in place?
+- Check Bios access is password protected or not? If not try to boot KALI linux
+- Check for restrcited access controls for sensitive information such as original source code / database server
+- Check for default/common/guessable passwords on systems and applications
+- Check the systems and application's version if those are outdated or old enough to be affected by any publicly exploitable vulnerabilities?
+- Are privileged activities on the system and applications being monitored?
+- 

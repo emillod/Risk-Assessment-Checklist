@@ -1,25 +1,23 @@
-This checklist will help each and every small/medium enterprise to test/maintain and implement information security services/policies/guidelines.
-
 # Information Security Policies
 - Does company have information security policies?
 - If no then you can get the resources and samples from this link to start implement with: https://www.sans.org/security-resources/policies
 - Check whether policies have been approved and signed by management?
-- How policies were deployed to the end users of the organisation?
+- How policies were deployed to the end users of the organization?
 - Check if policies are being followed by end users?
-- Check how frequently organisation updates their infosec policies?
+- Check how frequently organization updates their InfoSec policies?
 
 # Information Security Roles and Duties Segregation
-- Are responsibilities are documented for each infosec pertaining duties?
-- Responsibilities and duties are two separate things for information security. Are those both well documented and communicated over the organisation?
-- Make sure organisation has a well defined document which clears the information about whom to contact and when to contact in the case of any breach or risk.
-- Does this security practices are applicable to all teams/departments within the organisation or just pertaining to only technical department where the involvement of risk is more?
+- Are responsibilities are documented for each InfoSec pertaining duties?
+- Responsibilities and duties are two separate things for information security. Are those both well documented and communicated over the organization?
+- Make sure organization has a well-defined document which clears the information about whom to contact and when to contact in the case of any breach or risk.
+- Does this security practices are applicable to all teams/departments within the organization or just pertaining to only technical department where the involvement of risk is more?
 
 # Human Resource Security Management
 - Check the process of background screening?
 - Is background screening done by 3rd party?
 - If yes then any non-disclosure agreement is made with the 3rd party vendor?
 - Pre-onboarding, what all documents are gathered by HR? How the integrity is checked for all those documents if needed?
-- During the employment, is management's behaviour encourage employee to stick with infosec guidelines?
+- During the employment, is management's behavior encourage employee to stick with InfoSec guidelines?
 - How employee termination is being done?
 - Do all physical and technical accesses are taken back from the employee?
 - Who make sure of this and how?
@@ -28,31 +26,39 @@ This checklist will help each and every small/medium enterprise to test/maintain
 - Is there asset management inventory?
 - It is being kept updated?
 - Who has taken the ownership of asset management?
-- Does organisation have any 'acceptable use policy'?
+- Does organization have any 'acceptable use policy'?
 - Check if users are following 'acceptable use policy'
 - Check who takes ownership of asset returning.
 - Is there any policy to transfer, store, retrieve & dispose classified information?
 - Check whether these 4 things are being done appropriately.
 - Do dumpster diving
 - Check what all physical access do users have with their laptops/desktops such as use of removable media, CD/DVD writer etc.
-- Are there any polices or clause which states the amount to be taken in the consideration of unauthorised access, modification, disposable or retrieval of classified information as well as physical assets?
+- Are there any polices or clause which states the amount to be taken in the consideration of unauthorized access, modification, disposable or retrieval of classified information as well as physical assets?
 - Is there any documented access control policy?
 - Are roles and responsibilities defined for access control policy?
 - Are they properly followed?
-- Is inventory/logs are maintained for access control? Are those retrievable?
+- Are inventory/logs are maintained for access control? Are those retrievable?
 - Is there any documented process for user access provisioning?
-- Check if privileged access accounts are maintained saperately.
-- Check if user access are properly removed upon the termination or post resignation.
+- Check if privileged access accounts are maintained separately.
+- Check if user access is properly removed upon the termination or post resignation.
 
-# Application & System Access Security
+# System & Application Access Security
 - Is application and system access controls are documented?
 - Is there any 2FA to logon in a system or application?
 - Does company use any password manager?
 - Is there any password complex password policy generation?
 - Does system have drive encryption in place?
-- Check Bios access is password protected or not? If not try to boot KALI linux
-- Check for restrcited access controls for sensitive information such as original source code / database server
+- Check Bios access is password protected or not? If not try to boot KALI Linux
+- Check for restricted access controls for sensitive information such as original source code / database server
 - Check for default/common/guessable passwords on systems and applications
 - Check the systems and application's version if those are outdated or old enough to be affected by any publicly exploitable vulnerabilities?
 - Are privileged activities on the system and applications being monitored?
-- 
+- Is there any cryptography policy standard?
+- How keys are transferred between two parties for cryptography operations?
+
+# Physical Environment Security
+- Does company have any restricted security access? (such as database center)
+- Is there any inventory for physical access monitoring?
+- Is there any Locking up and clear desk policy?
+- Check if infrastructure was configured with security in mind or not
+- Check if DR (Disaster recovery) and Production environment are not at a same physical place in case of nature disaster recovery.

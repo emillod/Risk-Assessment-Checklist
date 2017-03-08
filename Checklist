@@ -71,3 +71,26 @@
 - Is there a formal process of removing assets from the physical infrastructure?
 - Is data from the physical asset being cleared while disposing or removing it from the physical infrastructure?
 - Where and how data is wiped from the asset?
+
+# Operation Security
+- Is there a change and capacity management process?
+- Does infrastructure have malware/virus protection?
+- Does infrastructure antispam filtering process?
+- Does infrastructure has ransomeware proctection in place?
+- Is there backup policy?
+- Are backup being tested?
+- Are backup protected with passwords or encryption?
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+

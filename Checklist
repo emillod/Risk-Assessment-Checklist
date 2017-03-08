@@ -80,17 +80,12 @@
 - Is there backup policy?
 - Are backup being tested?
 - Are backup protected with passwords or encryption?
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Is there event logging mechanism exists?
+- Are logging properly reviewed?
+- Are those logging procted against tampering and interference? Is there access control policy for logging?
+- Who manages administrator logs?
+- Is there restriction to install and use 3rd party applications without prior permission?
+- Does organization have vulnerability management program on specific time interval?
+- Does organization have patch management program on specific time interval?
+- Does organization have IS audit program on specific time interval?
+- Does organization have any compliance certification?

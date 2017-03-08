@@ -76,13 +76,13 @@
 - Is there a change and capacity management process?
 - Does infrastructure have malware/virus protection?
 - Does infrastructure antispam filtering process?
-- Does infrastructure has ransomeware proctection in place?
+- Does infrastructure have ransomware protection in place?
 - Is there backup policy?
-- Are backup being tested?
-- Are backup protected with passwords or encryption?
+- Is backup being tested?
+- Is backup protected with passwords or encryption?
 - Is there event logging mechanism exists?
 - Are logging properly reviewed?
-- Are those logging procted against tampering and interference? Is there access control policy for logging?
+- Are those logging protected against tampering and interference? Is there access control policy for logging?
 - Who manages administrator logs?
 - Is there restriction to install and use 3rd party applications without prior permission?
 - Does organization have vulnerability management program on specific time interval?

@@ -59,6 +59,15 @@
 # Physical Environment Security
 - Does company have any restricted security access? (such as database center)
 - Is there any inventory for physical access monitoring?
-- Is there any Locking up and clear desk policy?
+- Is there any Locking up and clear desk policy? Check how it is enforced.
 - Check if infrastructure was configured with security in mind or not
 - Check if DR (Disaster recovery) and Production environment are not at a same physical place in case of nature disaster recovery.
+- For environmental hazards, protection equipment is handy from a specific location?
+- Are users trained for using fire safety and other equipment in case of emergency?
+- At physical location is there UPS system for power back?
+- Was it tested at different time interval?
+- Is there any cabling and power management security?
+-  Cabling security must be protected against interception, damage and interference.
+- Is there a formal process of removing assets from the physical infrastructure?
+- Is data from the physical asset being cleared while disposing or removing it from the physical infrastructure?
+- Where and how data is wiped from the asset?
